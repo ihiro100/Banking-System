@@ -15,6 +15,7 @@ This project first connect a user form Oracle database.Then user will signup som
 Detailed Banking System:
 
 The Bank provides following services:
+
 A customer can have either of the following type of accounts:
 Savings Account – Generally used for temporary savings. Offers interest at the rate of 7.5% per annum on your savings. Maximum 10 withdrawals are allowed per month. No minimum balance is needed to open or maintain this account.
 Current Account – Generally used by corporates and business men. No interest is offered on this account. No limit of on no. of withdrawals. A customer needs to have minimum 5K to open or maintain this account.
